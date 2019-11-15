@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/pdkpavankumar/todo-react-offline/static/css/main.b100e6da.chunk.css",
-    "main.js": "/pdkpavankumar/todo-react-offline/static/js/main.99c3881e.chunk.js",
-    "main.js.map": "/pdkpavankumar/todo-react-offline/static/js/main.99c3881e.chunk.js.map",
-    "runtime-main.js": "/pdkpavankumar/todo-react-offline/static/js/runtime-main.74f3824c.js",
-    "runtime-main.js.map": "/pdkpavankumar/todo-react-offline/static/js/runtime-main.74f3824c.js.map",
-    "static/js/2.ac586142.chunk.js": "/pdkpavankumar/todo-react-offline/static/js/2.ac586142.chunk.js",
-    "static/js/2.ac586142.chunk.js.map": "/pdkpavankumar/todo-react-offline/static/js/2.ac586142.chunk.js.map",
-    "index.html": "/pdkpavankumar/todo-react-offline/index.html",
-    "precache-manifest.5655280472796211a1b48b2a76c802dc.js": "/pdkpavankumar/todo-react-offline/precache-manifest.5655280472796211a1b48b2a76c802dc.js",
-    "service-worker.js": "/pdkpavankumar/todo-react-offline/service-worker.js",
-    "static/css/main.b100e6da.chunk.css.map": "/pdkpavankumar/todo-react-offline/static/css/main.b100e6da.chunk.css.map",
-    "static/media/logo.svg": "/pdkpavankumar/todo-react-offline/static/media/logo.25bf045c.svg"
+    "main.css": "/todo-react-offline/static/css/main.b100e6da.chunk.css",
+    "main.js": "/todo-react-offline/static/js/main.b53a032d.chunk.js",
+    "main.js.map": "/todo-react-offline/static/js/main.b53a032d.chunk.js.map",
+    "runtime-main.js": "/todo-react-offline/static/js/runtime-main.6b6880aa.js",
+    "runtime-main.js.map": "/todo-react-offline/static/js/runtime-main.6b6880aa.js.map",
+    "static/js/2.ac586142.chunk.js": "/todo-react-offline/static/js/2.ac586142.chunk.js",
+    "static/js/2.ac586142.chunk.js.map": "/todo-react-offline/static/js/2.ac586142.chunk.js.map",
+    "index.html": "/todo-react-offline/index.html",
+    "precache-manifest.403ec88e3fcbebf53fc83262b87d817d.js": "/todo-react-offline/precache-manifest.403ec88e3fcbebf53fc83262b87d817d.js",
+    "service-worker.js": "/todo-react-offline/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/todo-react-offline/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/todo-react-offline/static/media/logo.25bf045c.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.74f3824c.js",
+    "static/js/runtime-main.6b6880aa.js",
     "static/js/2.ac586142.chunk.js",
     "static/css/main.b100e6da.chunk.css",
-    "static/js/main.99c3881e.chunk.js"
+    "static/js/main.b53a032d.chunk.js"
   ]
 }
