@@ -1,0 +1,79 @@
+.background {
+  background-color: #282c34;
+  height: calc(100vh - 40px);
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+.logo {
+  width: 50px;
+}
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.title {
+  font-weight: bold;
+  margin: 10px;
+}
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background: #464D59;
+  padding: 10px;
+}
+
+.color-primary-0 { color: #282C34 }	/* Main Primary color */
+.color-primary-1 { color: #626977 }
+.color-primary-2 { color: #464D59 }
+.color-primary-3 { color: #191F2B }
+.color-primary-4 { color: #0F1726 }
+
+.paper {
+  background: #626977;
+  box-shadow:
+    /* The top layer shadow */
+    0 1px 1px rgba(0,0,0,0.15),
+    /* The second layer */
+    0 10px 0 -5px #464D59,
+    /* The second layer shadow */
+    0 10px 1px -4px rgba(0,0,0,0.15),
+     /* The third layer */
+    0 20px 0 -10px #464D59,
+    /* The third layer shadow */
+    0 20px 1px -9px rgba(0,0,0,0.15);
+    /* Padding for demo purposes */
+    padding: 30px;
+}
+
+.content {
+  max-width: 500px;
+  margin: 20px auto;
+  color: #fff;
+}
+
+.input {
+  background: transparent;
+  outline: none;
+}
+
+.input:empty:before{
+  content: 'Write your task here....'
+}
+
+.task {
+  align-content: flex-start;
+}
+
+.add {
+  width: 50px;
+}
+
+.addButton {
+  position: absolute;
+  right: 10px;
+  bottom: 50px;
+}

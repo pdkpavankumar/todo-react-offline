@@ -1,24 +1,23 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import './common.css';
+import todo from './todo.svg';
+import Todo from './Todo';
+import Add from './Add';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="background">
+      <div className="header">
+        <img src={todo} className="logo" alt="todo"></img>
+        <span className="title">TODO Offline App</span>
+      </div>
+      <div className="content paper">
+        <Todo />
+      </div>
+      <Add />
+      <div className="footer">
+        TODO application offline....
+      </div>
     </div>
   );
 }
