@@ -66,6 +66,7 @@
 
 .task {
   align-content: flex-start;
+  position: relative;
 }
 
 .add {
@@ -76,4 +77,20 @@
   position: absolute;
   right: 10px;
   bottom: 50px;
+}
+
+.delete {
+  position: absolute;
+  right: -25px;
+  top: -25px;
+}
+
+.del,.successicon {
+  height: 30px;
+}
+
+.success {
+  position: absolute;
+  right: -24px;
+  bottom: -24px;
 }
