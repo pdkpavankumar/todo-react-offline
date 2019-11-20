@@ -25,6 +25,9 @@
   background: #464D59;
   padding: 10px;
 }
+h3 {
+  color: #626977;
+}
 
 .color-primary-0 { color: #282C34 }	/* Main Primary color */
 .color-primary-1 { color: #626977 }
